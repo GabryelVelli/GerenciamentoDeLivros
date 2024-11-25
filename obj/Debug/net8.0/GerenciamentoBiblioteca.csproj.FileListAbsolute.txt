@@ -1,0 +1,14 @@
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\bin\Debug\net8.0\GerenciamentoBiblioteca.exe
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\bin\Debug\net8.0\GerenciamentoBiblioteca.deps.json
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\bin\Debug\net8.0\GerenciamentoBiblioteca.runtimeconfig.json
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\bin\Debug\net8.0\GerenciamentoBiblioteca.dll
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\bin\Debug\net8.0\GerenciamentoBiblioteca.pdb
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.AssemblyInfo.cs
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.dll
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\refint\GerenciamentoBiblioteca.dll
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.pdb
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.genruntimeconfig.cache
+C:\Users\gabry\source\repos\Biblioteca\Biblioteca\obj\Debug\net8.0\ref\GerenciamentoBiblioteca.dll
